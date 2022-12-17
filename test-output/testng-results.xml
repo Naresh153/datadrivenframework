@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-04T07:40:07 IST" name="Suite" finished-at="2022-08-04T07:40:36 IST" duration-ms="29263">
+    <groups>
+    </groups>
+    <test started-at="2022-08-04T07:40:07 IST" name="Test" finished-at="2022-08-04T07:40:36 IST" duration-ms="29263">
+      <class name="datadrivenFrameworkpack.Testng_datadrivenclass">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:datadrivenFrameworkpack.Testng_datadrivenclass@4fb3ee4e]" started-at="2022-08-04T07:40:04 IST" name="launchbrowser" finished-at="2022-08-04T07:40:07 IST" duration-ms="2824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:datadrivenFrameworkpack.Testng_datadrivenclass@4fb3ee4e]" started-at="2022-08-04T07:40:09 IST" name="login" data-provider="dp" finished-at="2022-08-04T07:40:19 IST" duration-ms="9684" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[add]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[122342.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:datadrivenFrameworkpack.Testng_datadrivenclass@4fb3ee4e]" started-at="2022-08-04T07:40:19 IST" name="login" data-provider="dp" finished-at="2022-08-04T07:40:22 IST" duration-ms="2654" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adad]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asddas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:datadrivenFrameworkpack.Testng_datadrivenclass@4fb3ee4e]" started-at="2022-08-04T07:40:22 IST" name="login" data-provider="dp" finished-at="2022-08-04T07:40:26 IST" duration-ms="4249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aasa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1232.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:datadrivenFrameworkpack.Testng_datadrivenclass@4fb3ee4e]" started-at="2022-08-04T07:40:26 IST" name="login" data-provider="dp" finished-at="2022-08-04T07:40:36 IST" duration-ms="10429" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:datadrivenFrameworkpack.Testng_datadrivenclass@4fb3ee4e]" started-at="2022-08-04T07:40:37 IST" name="driverclose" finished-at="2022-08-04T07:40:37 IST" duration-ms="681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+      </class> <!-- datadrivenFrameworkpack.Testng_datadrivenclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
